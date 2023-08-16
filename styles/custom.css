@@ -1,0 +1,15 @@
+.createData {
+    background: #e8e8e8;
+    padding: 15px;
+    width: 30%;
+}
+
+.main {
+    display: flex;
+}
+
+.content{
+    width: 70%;
+    background: #ddd;
+    padding: 15px;
+}
